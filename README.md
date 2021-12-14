@@ -1,4 +1,3 @@
-### Hi there 👋
 
 
 
@@ -13,4 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: inuk20ad018@rmkcet.ac.in
 - 😄 Pronouns: Bruh !!
 - ⚡ Fun fact: ****
+<br>
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dileepinukurthi&show_icons=true&theme=tokyonight)
